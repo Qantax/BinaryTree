@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/vYor6OT.png" width="900" title="hover text">
 </p>
-<p align="center">
-  B I N A R Y T R E E
-</p>
 
 <p align="center">
 <b>
